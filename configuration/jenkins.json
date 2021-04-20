@@ -1,0 +1,19 @@
+{
+  "DOTNET_CORE_SOLUTIONS": [
+    {
+      "name": "eShopOnWeb",
+      "path": "eShopOnWeb.sln"
+      // "buildParameters": "" OPTIONAL
+    }
+  ],
+  "DOTNET_CORE_PROJECTS": [
+      {
+        "name": "eShopOnWeb-Web",
+        "path": "src/Web/Web.csproj"
+      },
+      {
+        "name": "eShopOnWeb-PublicApi",
+        "path": "src/PublicApi/PublicApi.csproj"
+      }
+    ]
+}

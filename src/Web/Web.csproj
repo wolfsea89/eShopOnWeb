@@ -76,4 +76,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
   </ItemGroup>
+
+  <Import Project="Properties\AssemblyInfo.props"/>
 </Project>
