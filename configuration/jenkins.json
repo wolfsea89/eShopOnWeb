@@ -10,10 +10,6 @@
       {
         "name": "eShopOnWeb-Web",
         "path": "src/Web/Web.csproj"
-      },
-      {
-        "name": "eShopOnWeb-PublicApi",
-        "path": "src/PublicApi/PublicApi.csproj"
       }
     ]
 }
